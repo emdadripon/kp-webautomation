@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e903d164-a93e-4482-8dd1-9ac8b3502fdc" name="Default Changelist" comment="" />
+    <list default="true" id="e903d164-a93e-4482-8dd1-9ac8b3502fdc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kp_page/src/test/resources/kppagetestrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kp_page/kppagetestrunner.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -32,7 +37,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -96,10 +105,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kp_page/src/test/resources/kppagetestrunner.xml">
+        <entry file="file://$PROJECT_DIR$/kp_page/kppagetestrunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -135,6 +144,9 @@
       <dir>$PROJECT_DIR$/Generic/src/test/resources</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -152,6 +164,7 @@
         <option value="$PROJECT_DIR$/kp_page/src/main/java/base/CommonAPi.java" />
         <option value="$PROJECT_DIR$/kp_page/src/main/java/pages/GetCare.java" />
         <option value="$PROJECT_DIR$/kp_page/src/test/java/PageTests/GetCarePageTests.java" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -179,11 +192,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="344" />
+    <option name="x" value="257" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="776" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -244,33 +258,7 @@
               <item name="kp_webautomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="kp_webautomation" type="462c0819:PsiDirectoryNode" />
               <item name="kp_page" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kp_webautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kp_webautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="kp_page" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kp_webautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kp_webautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="kp_page" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kp_webautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kp_webautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="kp_page" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kp_webautomation" type="b2602c69:ProjectViewProjectNode" />
@@ -298,6 +286,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -306,6 +295,11 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kp_page" />
+      <recent name="$PROJECT_DIR$/kp_page/src" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -320,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml">
+  <component name="RunManager" selected="TestNG./Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/kppagetestrunner.xml">
     <configuration name="GetCarePageTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="kp_page" />
       <extension name="coverage">
@@ -331,23 +325,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="PageTests" />
       <option name="MAIN_CLASS_NAME" value="PageTests.GetCarePageTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="kp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PageTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pagetests" />
-      <option name="MAIN_CLASS_NAME" value="PageTests.LoginPageTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -389,9 +366,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/kppagetestrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="kp_page" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/kp_page/src/test/resources/kppagetestrunner.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/kp_page/kppagetestrunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -399,13 +376,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="kp_page" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/kp_page/src/test/resources/kppagetestrunner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml" />
+      <item itemvalue="TestNG.GetCarePageTests" />
+      <item itemvalue="TestNG.WhyKPTests" />
+      <item itemvalue="TestNG.WhyKPTests (1)" />
+      <item itemvalue="TestNG./Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/kppagetestrunner.xml" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/kppagetestrunner.xml" />
         <item itemvalue="TestNG./Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml" />
         <item itemvalue="TestNG.GetCarePageTests" />
         <item itemvalue="TestNG.WhyKPTests (1)" />
         <item itemvalue="TestNG.WhyKPTests" />
-        <item itemvalue="TestNG.LoginPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -423,12 +425,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_emdadripon_IdeaProjects_kp_webautomation_kp_page_src_test_resources_kppagetestrunner_xml - 2019.12.21 at 09h 18m 58s.xml">
-      <configuration name="/Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetCarePageTests - 2019.12.21 at 09h 20m 05s.xml">
-      <configuration name="GetCarePageTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="GetCarePageTests - 2019.12.21 at 09h 21m 09s.xml">
       <configuration name="GetCarePageTests" configurationId="TestNG" />
     </history-entry>
@@ -453,9 +449,15 @@
     <history-entry file="_Users_emdadripon_IdeaProjects_kp_webautomation_kp_page_src_test_resources_kppagetestrunner_xml - 2019.12.21 at 10h 13m 02s.xml">
       <configuration name="/Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_emdadripon_IdeaProjects_kp_webautomation_kp_page_src_test_resources_kppagetestrunner_xml - 2019.12.21 at 12h 15m 29s.xml">
+      <configuration name="/Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/src/test/resources/kppagetestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_emdadripon_IdeaProjects_kp_webautomation_kp_page_kppagetestrunner_xml - 2019.12.21 at 12h 16m 19s.xml">
+      <configuration name="/Users/emdadripon/IdeaProjects/kp_webautomation/kp_page/kppagetestrunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="23" width="1440" height="776" extended-state="0" />
+    <frame x="257" y="23" width="1440" height="776" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2446352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -473,7 +475,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.55847955" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.50438595" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32748538" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -550,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kp_page/src/test/resources/kppagetestrunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kp_page/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -580,8 +575,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kp_page/kppagetestrunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
